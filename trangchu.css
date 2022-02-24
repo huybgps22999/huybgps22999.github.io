@@ -1,0 +1,29 @@
+.main{
+    width: 350px;
+    border: 3px solid black;
+    border-radius: 5%;
+    float: left;
+    background: white;
+    margin: 5px;
+    text-align: center;
+}
+.gia{
+  font-size: medium;
+  font-variant: small-caps;
+  color: red;
+  text-align: center;
+}
+.ten{
+    font-size: larger;
+    font-variant: small-caps;
+    color: red;
+    text-align: center;
+}
+.infor{
+    font-size: medium;
+    font-variant: small-caps;
+    color: black;
+    float: right;
+    text-align: left;
+}
+

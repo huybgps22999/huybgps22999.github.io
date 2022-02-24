@@ -1,0 +1,24 @@
+body{
+    padding: 100;
+    width: 50%;
+}
+button{
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 0 3px blue;
+    padding: 5px 10px;
+    outline: none;
+}
+button:focus{
+    box-shadow: 0 0 3px orangered;
+    color: orangered;
+}
+textarea{
+    margin: 3px 0px;
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 0 3px blue;
+    display: block;
+    outline: none;
+}

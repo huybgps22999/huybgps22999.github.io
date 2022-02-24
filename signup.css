@@ -1,0 +1,28 @@
+body{
+    padding: 100;
+    width: 50%;
+}
+.group{
+    margin: 5px 5px;
+}
+.control{
+    margin: 3px 0px;
+    padding: 5px;
+    border: none;
+    width: 200px;
+    border-radius: 3px;
+    box-shadow: 0 0 3px blue;
+    display: block;
+    outline: none;
+}
+button{
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 0 3px blue;
+    padding: 5px 10px;
+    outline: none;
+}
+button:focus{
+    box-shadow: 0 0 3px orangered;
+    color: orangered;
+}
